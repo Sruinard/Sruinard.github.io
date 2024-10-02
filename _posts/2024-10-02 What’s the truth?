@@ -1,3 +1,9 @@
+---
+layout: post
+title:  What’s the truth?
+date:   2024-10-02 11:34:11 +0000
+categories: ML evaluation
+---
 **What’s the truth?**
 
 I've always found comfort in the predictability of code. However, developing Gen AI applications is not like building traditional software applications or predictive models. As I started developing Generative AI applications, I had to continuously remind myself of the non-deterministic nature of these applications. In that sense, GenAI, with its ability to produce diverse and creative outputs, clashes with the deterministic nature of traditional applications. In particular, there seems to be no one answer to the question: what’s the truth?
